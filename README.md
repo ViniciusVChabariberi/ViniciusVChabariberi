@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou 
+    Oi, Tudo bem? Eu sou 
     <a href="">Vinicius Valero😊</a>
   </h1>
   
