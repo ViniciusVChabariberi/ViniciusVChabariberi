@@ -10,16 +10,6 @@
   </p>
 
 <hr>
-
-  <h1 align="center">
-    Oi, Tudo bem? Eu sou 
-    <a href="">Vinicius Valero😊</a>
-  </h1>
-  
-  <p align="center">
-    Tenho uma graduação em desenvolvimento de sistemas e atualmente, sou estudante da FATEC Zona Leste e estou sempre aprendendo mais sobre programação e tudo desse mundo! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-  </p>
-  
   
 </div>
 <br>
@@ -31,7 +21,7 @@
 </div>
 <br>
 
-### 🛠 &nbsp;Linguagens que utilizo :
+### 🛠 &nbsp;Programming languages I use :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,8 +35,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </p>
 
-### 🛠 &nbsp;Frameworks que utilizo :
+### 🛠 &nbsp;Frameworks I use :
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40"height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40"height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40"height="40"/>&nbsp;
 </p>
