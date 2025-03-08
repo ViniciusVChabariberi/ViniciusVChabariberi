@@ -1,12 +1,23 @@
 <div>
   
+<h1 align="center">
+    Hello, How are you? I'm
+    <a href="">Vinicius Valero😊</a>
+  </h1>
+  
+  <p align="center">
+    I'm gratuaded in systems development and, currently a student at FATEC Zona Leste and I am always learning more about programming and everything in this world. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  </p>
+
+<hr>
+
   <h1 align="center">
     Oi, Tudo bem? Eu sou 
     <a href="">Vinicius Valero😊</a>
   </h1>
   
   <p align="center">
-    Sou estudante da ETEC Zona Leste e estou sempre aprendendo mais em programação e tudo desse mundo! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+    Tenho uma graduação em desenvolvimento de sistemas e atualmente, sou estudante da FATEC Zona Leste e estou sempre aprendendo mais sobre programação e tudo desse mundo! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   </p>
   
   
